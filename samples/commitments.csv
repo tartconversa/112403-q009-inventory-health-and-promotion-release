@@ -1,0 +1,5 @@
+id,sku,from,to,qty,kind,state
+O1,S1,WH1,customer,42,reservation,open
+T1,S1,WH1,ST1,30,transfer,in-transit
+M1,S1,ST1,,25,marketing,confirmed
+M2,S2,ST2,,18,marketing,proposed
