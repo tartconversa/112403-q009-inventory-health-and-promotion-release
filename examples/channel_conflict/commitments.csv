@@ -1,0 +1,9 @@
+id,sku,from,to,qty,kind,state,day,slot,budget,min_stock,note
+O1,S1,EC1,customer,140,reservation,open,2026-10-01,,,,
+O2,S2,EC1,customer,60,reservation,pending,2026-10-01,,,,
+T1,S1,WH1,ST1,120,transfer,in-transit,2026-10-01,,,,
+T2,S2,WH1,EC1,80,transfer,unknown,2026-10-01,,,,
+M1,S1,EC1,,90,marketing,confirmed,2026-10-01,2026-10-08,30000,,
+M2,S1,ST1,,60,marketing,proposed,2026-10-01,2026-10-12,18000,,
+M3,S2,EC1,,120,marketing,proposed,2026-10-01,2026-10-15,24000,,
+M4,S2,ST1,,80,marketing,proposed,2026-10-01,2026-10-20,16000,,

@@ -1,0 +1,4 @@
+id,sku,kind,qty,location,batch,day,state,target,note
+E1,S1,count,72,ST1,B4,2026-10-04,saleable,,门店盘点：B4 实盘
+E2,S2,return,6,EC1,,2026-10-04,saleable,,电商退货可再售
+E3,S2,receipt,80,EC1,,2026-10-04,,T2,仓库到电商调拨签收
